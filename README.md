@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kenan! Welcome to my Github page :)</h1>
 <h3 align="center">Full-stack Developer and fitness enthusiast looking to make an impact on the world</h3>
 
+![](https://komarev.com/ghpvc/?username=kabdulka&color=blue)
+
 - 🌱 I’m currently learning **MongoDB, Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kabdulka](https://github.com/kabdulka)

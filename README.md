@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://kenabdulkadev.netlify.app](https://kenabdulkadev.netlify.app)
 
-- 💬 Ask me about **React, Node.js, Typescript/Javascript, Python, Java, Soccer, Table Tennis or Weight Lifting**
+- 💬 Ask me about **React, Node.js, Typescript/Javascript, Python, Java**
 
 - 📫 How to reach me **kenabdulka@gmail.com**
 

@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=kabdulka&color=blue)
 
-- 🌱 I’m currently learning **MongoDB, Nextjs**
+- 🌱 I’m currently learning **MongoDB, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kabdulka](https://github.com/kabdulka)
 
